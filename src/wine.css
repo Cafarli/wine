@@ -1,0 +1,12 @@
+body{
+    width: 100%;
+}
+.wines {
+    font-size: 22px;
+    text-align: center;
+    border: 1px solid black;
+    width: 30%;
+    margin-top: 3%;
+    left: auto;
+    right: auto;
+}
